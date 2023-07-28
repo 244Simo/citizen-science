@@ -1,6 +1,6 @@
 # Citizen Science
 ## Table of Content
-CitizenScienceの定義と役割
+CitizenScienceの定義と役割<br>
 CitizenScienceに必要な施策
 
 ここでは、citizen scienceの定義と、その果たす役割について議論する。
@@ -20,5 +20,4 @@ CitizenScienceに必要な施策
 - それに関連した分野ごとAuthenticatorの設置
 - その他独立研究者へのキャリアパスの整備など
 
-- これらの議論は、特定の権利団体が負担するのではなく、コンソーシアムNPOを設置するなどして整備を行う
-- 理想的には、CitizenScienceの参加者がこれらの規約・規範の形成に参加できる仕組みを整備する
+これらの議論は、特定の権利団体が負担するのではなく、コンソーシアムNPOを設置するなどして整備を行う。理想的には、CitizenScienceの参加者がこれらの規約・規範の形成に参加できる仕組みを整備する
